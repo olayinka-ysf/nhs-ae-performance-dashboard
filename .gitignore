@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pyo
+data/raw/
+.env
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
